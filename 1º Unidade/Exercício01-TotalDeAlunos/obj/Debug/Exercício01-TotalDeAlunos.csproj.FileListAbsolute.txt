@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício01-TotalDeAlunos\bin\Debug\Exercício01-TotalDeAlunos.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício01-TotalDeAlunos\bin\Debug\Exercício01-TotalDeAlunos.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício01-TotalDeAlunos\bin\Debug\Exercício01-TotalDeAlunos.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício01-TotalDeAlunos\obj\Debug\Exercício01-TotalDeAlunos.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício01-TotalDeAlunos\obj\Debug\Exercício01-TotalDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício01-TotalDeAlunos\obj\Debug\Exercício01-TotalDeAlunos.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício01-TotalDeAlunos\obj\Debug\Exercício01-TotalDeAlunos.pdb
