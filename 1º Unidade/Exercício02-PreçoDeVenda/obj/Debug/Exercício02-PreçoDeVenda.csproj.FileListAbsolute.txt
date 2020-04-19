@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício02-PreçoDeVenda\bin\Debug\Exercício02-PreçoDeVenda.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício02-PreçoDeVenda\bin\Debug\Exercício02-PreçoDeVenda.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício02-PreçoDeVenda\bin\Debug\Exercício02-PreçoDeVenda.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício02-PreçoDeVenda\obj\Debug\Exercício02-PreçoDeVenda.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício02-PreçoDeVenda\obj\Debug\Exercício02-PreçoDeVenda.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício02-PreçoDeVenda\obj\Debug\Exercício02-PreçoDeVenda.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício02-PreçoDeVenda\obj\Debug\Exercício02-PreçoDeVenda.pdb
