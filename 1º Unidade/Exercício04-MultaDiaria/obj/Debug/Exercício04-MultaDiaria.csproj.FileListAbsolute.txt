@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício04-MultaDiaria\bin\Debug\Exercício04-MultaDiaria.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício04-MultaDiaria\bin\Debug\Exercício04-MultaDiaria.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício04-MultaDiaria\bin\Debug\Exercício04-MultaDiaria.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício04-MultaDiaria\obj\Debug\Exercício04-MultaDiaria.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício04-MultaDiaria\obj\Debug\Exercício04-MultaDiaria.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício04-MultaDiaria\obj\Debug\Exercício04-MultaDiaria.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício04-MultaDiaria\obj\Debug\Exercício04-MultaDiaria.pdb
