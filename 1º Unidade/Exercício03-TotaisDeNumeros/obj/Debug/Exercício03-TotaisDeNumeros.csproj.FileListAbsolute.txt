@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício03-TotaisDeNumeros\bin\Debug\Exercício03-TotaisDeNumeros.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício03-TotaisDeNumeros\bin\Debug\Exercício03-TotaisDeNumeros.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício03-TotaisDeNumeros\bin\Debug\Exercício03-TotaisDeNumeros.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício03-TotaisDeNumeros\obj\Debug\Exercício03-TotaisDeNumeros.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício03-TotaisDeNumeros\obj\Debug\Exercício03-TotaisDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício03-TotaisDeNumeros\obj\Debug\Exercício03-TotaisDeNumeros.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício03-TotaisDeNumeros\obj\Debug\Exercício03-TotaisDeNumeros.pdb
