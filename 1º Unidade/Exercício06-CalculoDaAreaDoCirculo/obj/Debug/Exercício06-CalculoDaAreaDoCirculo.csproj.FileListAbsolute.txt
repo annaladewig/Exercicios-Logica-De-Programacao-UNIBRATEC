@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício06-CalculoDaAreaDoCirculo\obj\Debug\Exercício06-CalculoDaAreaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício06-CalculoDaAreaDoCirculo\bin\Debug\Exercício06-CalculoDaAreaDoCirculo.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício06-CalculoDaAreaDoCirculo\bin\Debug\Exercício06-CalculoDaAreaDoCirculo.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício06-CalculoDaAreaDoCirculo\bin\Debug\Exercício06-CalculoDaAreaDoCirculo.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício06-CalculoDaAreaDoCirculo\obj\Debug\Exercício06-CalculoDaAreaDoCirculo.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício06-CalculoDaAreaDoCirculo\obj\Debug\Exercício06-CalculoDaAreaDoCirculo.pdb
