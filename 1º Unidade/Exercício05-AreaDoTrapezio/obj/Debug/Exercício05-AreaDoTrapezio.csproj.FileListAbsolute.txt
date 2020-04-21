@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício05-AreaDoTrapezio\obj\Debug\Exercício05-AreaDoTrapezio.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício05-AreaDoTrapezio\obj\Debug\Exercício05-AreaDoTrapezio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício05-AreaDoTrapezio\bin\Debug\Exercício05-AreaDoTrapezio.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício05-AreaDoTrapezio\bin\Debug\Exercício05-AreaDoTrapezio.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício05-AreaDoTrapezio\bin\Debug\Exercício05-AreaDoTrapezio.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício05-AreaDoTrapezio\obj\Debug\Exercício05-AreaDoTrapezio.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício05-AreaDoTrapezio\obj\Debug\Exercício05-AreaDoTrapezio.pdb
