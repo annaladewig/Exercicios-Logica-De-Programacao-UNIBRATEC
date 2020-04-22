@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício07-ConversaoDeGraus\bin\Debug\Exercício07-ConversaoDeGraus.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício07-ConversaoDeGraus\bin\Debug\Exercício07-ConversaoDeGraus.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício07-ConversaoDeGraus\bin\Debug\Exercício07-ConversaoDeGraus.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício07-ConversaoDeGraus\obj\Debug\Exercício07-ConversaoDeGraus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício07-ConversaoDeGraus\obj\Debug\Exercício07-ConversaoDeGraus.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício07-ConversaoDeGraus\obj\Debug\Exercício07-ConversaoDeGraus.pdb
