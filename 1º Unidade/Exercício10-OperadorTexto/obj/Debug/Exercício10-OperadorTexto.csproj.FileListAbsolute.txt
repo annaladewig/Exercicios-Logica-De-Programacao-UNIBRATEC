@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício10-OperadorTexto\obj\Debug\Exercício10-OperadorTexto.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício10-OperadorTexto\obj\Debug\Exercício10-OperadorTexto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício10-OperadorTexto\bin\Debug\Exercício10-OperadorTexto.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício10-OperadorTexto\bin\Debug\Exercício10-OperadorTexto.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício10-OperadorTexto\bin\Debug\Exercício10-OperadorTexto.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício10-OperadorTexto\obj\Debug\Exercício10-OperadorTexto.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício10-OperadorTexto\obj\Debug\Exercício10-OperadorTexto.pdb
