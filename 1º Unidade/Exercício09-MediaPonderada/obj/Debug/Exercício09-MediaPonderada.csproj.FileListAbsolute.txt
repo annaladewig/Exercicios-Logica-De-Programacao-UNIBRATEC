@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-MediaPonderada\bin\Debug\Exercício09-MediaPonderada.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-MediaPonderada\bin\Debug\Exercício09-MediaPonderada.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-MediaPonderada\bin\Debug\Exercício09-MediaPonderada.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-MediaPonderada\obj\Debug\Exercício09-MediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-MediaPonderada\obj\Debug\Exercício09-MediaPonderada.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-MediaPonderada\obj\Debug\Exercício09-MediaPonderada.pdb
