@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-OperadoresAritmeticos\bin\Debug\Exercício09-OperadoresAritmeticos.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-OperadoresAritmeticos\bin\Debug\Exercício09-OperadoresAritmeticos.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-OperadoresAritmeticos\bin\Debug\Exercício09-OperadoresAritmeticos.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-OperadoresAritmeticos\obj\Debug\Exercício09-OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-OperadoresAritmeticos\obj\Debug\Exercício09-OperadoresAritmeticos.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-OperadoresAritmeticos\obj\Debug\Exercício09-OperadoresAritmeticos.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício09-OperadoresAritmeticos\obj\Debug\Exercício09-OperadoresAritmeticos.csprojAssemblyReference.cache
