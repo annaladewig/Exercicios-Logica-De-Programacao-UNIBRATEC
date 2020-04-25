@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício11-PagamentoEmAtraso\obj\Debug\Exercício11-PagamentoEmAtraso.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício11-PagamentoEmAtraso\bin\Debug\Exercício11-PagamentoEmAtraso.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício11-PagamentoEmAtraso\bin\Debug\Exercício11-PagamentoEmAtraso.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício11-PagamentoEmAtraso\bin\Debug\Exercício11-PagamentoEmAtraso.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício11-PagamentoEmAtraso\obj\Debug\Exercício11-PagamentoEmAtraso.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício11-PagamentoEmAtraso\obj\Debug\Exercício11-PagamentoEmAtraso.pdb
