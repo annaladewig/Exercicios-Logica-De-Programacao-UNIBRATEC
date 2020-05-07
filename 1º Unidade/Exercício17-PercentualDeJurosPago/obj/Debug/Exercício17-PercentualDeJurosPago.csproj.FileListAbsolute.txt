@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício17-PercentualDeJurosPago\obj\Debug\Exercício17-PercentualDeJurosPago.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício17-PercentualDeJurosPago\bin\Debug\Exercício17-PercentualDeJurosPago.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício17-PercentualDeJurosPago\bin\Debug\Exercício17-PercentualDeJurosPago.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício17-PercentualDeJurosPago\bin\Debug\Exercício17-PercentualDeJurosPago.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício17-PercentualDeJurosPago\obj\Debug\Exercício17-PercentualDeJurosPago.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício17-PercentualDeJurosPago\obj\Debug\Exercício17-PercentualDeJurosPago.pdb
