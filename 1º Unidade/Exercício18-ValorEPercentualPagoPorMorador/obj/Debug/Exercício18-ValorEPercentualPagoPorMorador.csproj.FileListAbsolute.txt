@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício18-ValorEPercentualPagoPorMorador\bin\Debug\Exercício18-ValorEPercentualPagoPorMorador.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício18-ValorEPercentualPagoPorMorador\bin\Debug\Exercício18-ValorEPercentualPagoPorMorador.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício18-ValorEPercentualPagoPorMorador\bin\Debug\Exercício18-ValorEPercentualPagoPorMorador.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício18-ValorEPercentualPagoPorMorador\obj\Debug\Exercício18-ValorEPercentualPagoPorMorador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício18-ValorEPercentualPagoPorMorador\obj\Debug\Exercício18-ValorEPercentualPagoPorMorador.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício18-ValorEPercentualPagoPorMorador\obj\Debug\Exercício18-ValorEPercentualPagoPorMorador.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício18-ValorEPercentualPagoPorMorador\obj\Debug\Exercício18-ValorEPercentualPagoPorMorador.csprojAssemblyReference.cache
