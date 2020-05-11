@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício19-AumentoSalarialPorPercentual\bin\Debug\Exercício19-AumentoSalarialPorPercentual.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício19-AumentoSalarialPorPercentual\bin\Debug\Exercício19-AumentoSalarialPorPercentual.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício19-AumentoSalarialPorPercentual\bin\Debug\Exercício19-AumentoSalarialPorPercentual.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício19-AumentoSalarialPorPercentual\obj\Debug\Exercício19-AumentoSalarialPorPercentual.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício19-AumentoSalarialPorPercentual\obj\Debug\Exercício19-AumentoSalarialPorPercentual.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício19-AumentoSalarialPorPercentual\obj\Debug\Exercício19-AumentoSalarialPorPercentual.pdb
