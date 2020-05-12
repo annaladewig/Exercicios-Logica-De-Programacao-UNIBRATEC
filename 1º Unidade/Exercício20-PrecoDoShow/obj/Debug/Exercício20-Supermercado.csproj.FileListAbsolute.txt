@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício20-PrecoDoShow\bin\Debug\Exercício20-PrecoDoShow.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício20-PrecoDoShow\bin\Debug\Exercício20-PrecoDoShow.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício20-PrecoDoShow\bin\Debug\Exercício20-PrecoDoShow.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício20-PrecoDoShow\obj\Debug\Exercício20-Supermercado.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício20-PrecoDoShow\obj\Debug\Exercício20-Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício20-PrecoDoShow\obj\Debug\Exercício20-PrecoDoShow.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício20-PrecoDoShow\obj\Debug\Exercício20-PrecoDoShow.pdb
