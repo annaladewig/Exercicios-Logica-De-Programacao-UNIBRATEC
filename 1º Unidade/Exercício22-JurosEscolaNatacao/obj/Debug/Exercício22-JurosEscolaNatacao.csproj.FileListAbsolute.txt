@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício22-JurosEscolaNatacao\bin\Debug\Exercício22-JurosEscolaNatacao.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício22-JurosEscolaNatacao\bin\Debug\Exercício22-JurosEscolaNatacao.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício22-JurosEscolaNatacao\bin\Debug\Exercício22-JurosEscolaNatacao.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício22-JurosEscolaNatacao\obj\Debug\Exercício22-JurosEscolaNatacao.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício22-JurosEscolaNatacao\obj\Debug\Exercício22-JurosEscolaNatacao.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício22-JurosEscolaNatacao\obj\Debug\Exercício22-JurosEscolaNatacao.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício22-JurosEscolaNatacao\obj\Debug\Exercício22-JurosEscolaNatacao.pdb
