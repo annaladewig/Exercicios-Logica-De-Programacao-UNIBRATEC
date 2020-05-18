@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício23-ReajusteSalarial\bin\Debug\Exercício23-ReajusteSalarial.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício23-ReajusteSalarial\bin\Debug\Exercício23-ReajusteSalarial.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício23-ReajusteSalarial\bin\Debug\Exercício23-ReajusteSalarial.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício23-ReajusteSalarial\obj\Debug\Exercício23-ReajusteSalarial.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício23-ReajusteSalarial\obj\Debug\Exercício23-ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício23-ReajusteSalarial\obj\Debug\Exercício23-ReajusteSalarial.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício23-ReajusteSalarial\obj\Debug\Exercício23-ReajusteSalarial.pdb
