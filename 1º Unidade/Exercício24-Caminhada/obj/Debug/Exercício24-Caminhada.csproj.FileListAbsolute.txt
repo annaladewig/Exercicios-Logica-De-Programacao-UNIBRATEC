@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício24-Caminhada\bin\Debug\Exercício24-Caminhada.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício24-Caminhada\bin\Debug\Exercício24-Caminhada.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício24-Caminhada\bin\Debug\Exercício24-Caminhada.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício24-Caminhada\obj\Debug\Exercício24-Caminhada.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício24-Caminhada\obj\Debug\Exercício24-Caminhada.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício24-Caminhada\obj\Debug\Exercício24-Caminhada.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício24-Caminhada\obj\Debug\Exercício24-Caminhada.pdb
