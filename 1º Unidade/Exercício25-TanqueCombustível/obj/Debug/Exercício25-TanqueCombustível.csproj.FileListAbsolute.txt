@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício25-TanqueCombustível\obj\Debug\Exercício25-TanqueCombustível.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício25-TanqueCombustível\obj\Debug\Exercício25-TanqueCombustível.csproj.CoreCompileInputs.cache
