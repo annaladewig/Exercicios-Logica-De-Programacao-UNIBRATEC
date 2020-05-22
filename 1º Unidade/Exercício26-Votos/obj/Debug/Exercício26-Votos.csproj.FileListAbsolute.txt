@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício26-Votos\bin\Debug\Exercício26-Votos.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício26-Votos\bin\Debug\Exercício26-Votos.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício26-Votos\bin\Debug\Exercício26-Votos.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício26-Votos\obj\Debug\Exercício26-Votos.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício26-Votos\obj\Debug\Exercício26-Votos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício26-Votos\obj\Debug\Exercício26-Votos.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício26-Votos\obj\Debug\Exercício26-Votos.pdb
