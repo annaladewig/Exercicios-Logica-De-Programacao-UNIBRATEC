@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício27-SalárioEstagiário\obj\Debug\Exercício27-SalárioEstagiário.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício27-SalárioEstagiário\obj\Debug\Exercício27-SalárioEstagiário.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício27-SalárioEstagiário\bin\Debug\Exercício27-SalárioEstagiário.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício27-SalárioEstagiário\bin\Debug\Exercício27-SalárioEstagiário.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício27-SalárioEstagiário\bin\Debug\Exercício27-SalárioEstagiário.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício27-SalárioEstagiário\obj\Debug\Exercício27-SalárioEstagiário.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício27-SalárioEstagiário\obj\Debug\Exercício27-SalárioEstagiário.pdb
