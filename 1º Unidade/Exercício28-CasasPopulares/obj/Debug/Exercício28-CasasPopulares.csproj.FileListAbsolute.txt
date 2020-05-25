@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício28-CasasPopulares\bin\Debug\Exercício28-CasasPopulares.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício28-CasasPopulares\bin\Debug\Exercício28-CasasPopulares.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício28-CasasPopulares\bin\Debug\Exercício28-CasasPopulares.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício28-CasasPopulares\obj\Debug\Exercício28-CasasPopulares.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício28-CasasPopulares\obj\Debug\Exercício28-CasasPopulares.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício28-CasasPopulares\obj\Debug\Exercício28-CasasPopulares.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício28-CasasPopulares\obj\Debug\Exercício28-CasasPopulares.csprojAssemblyReference.cache
