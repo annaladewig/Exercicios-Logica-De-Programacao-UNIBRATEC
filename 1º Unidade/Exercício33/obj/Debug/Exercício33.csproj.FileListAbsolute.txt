@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\1ºUnidade\Exercício33\bin\Debug\Exercício33.exe.config
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\1ºUnidade\Exercício33\bin\Debug\Exercício33.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\1ºUnidade\Exercício33\bin\Debug\Exercício33.pdb
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\1ºUnidade\Exercício33\obj\Debug\Exercício33.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\1ºUnidade\Exercício33\obj\Debug\Exercício33.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\1ºUnidade\Exercício33\obj\Debug\Exercício33.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\1ºUnidade\Exercício33\obj\Debug\Exercício33.pdb
