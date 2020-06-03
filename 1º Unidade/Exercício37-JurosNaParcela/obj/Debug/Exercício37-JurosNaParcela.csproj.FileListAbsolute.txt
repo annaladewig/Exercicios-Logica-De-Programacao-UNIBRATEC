@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício37-JurosNaParcela\bin\Debug\Exercício37-JurosNaParcela.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício37-JurosNaParcela\bin\Debug\Exercício37-JurosNaParcela.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício37-JurosNaParcela\bin\Debug\Exercício37-JurosNaParcela.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício37-JurosNaParcela\obj\Debug\Exercício37-JurosNaParcela.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício37-JurosNaParcela\obj\Debug\Exercício37-JurosNaParcela.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício37-JurosNaParcela\obj\Debug\Exercício37-JurosNaParcela.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício37-JurosNaParcela\obj\Debug\Exercício37-JurosNaParcela.pdb
