@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício38-Mensalidade\obj\Debug\Exercício38-Mensalidade.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício38-Mensalidade\obj\Debug\Exercício38-Mensalidade.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício38-Mensalidade\bin\Debug\Exercício38-Mensalidade.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício38-Mensalidade\bin\Debug\Exercício38-Mensalidade.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício38-Mensalidade\bin\Debug\Exercício38-Mensalidade.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício38-Mensalidade\obj\Debug\Exercício38-Mensalidade.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício38-Mensalidade\obj\Debug\Exercício38-Mensalidade.pdb
