@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício39-MediaAritméticaMaioresNotas\bin\Debug\Exercício39-MediaAritméticaMaioresNotas.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício39-MediaAritméticaMaioresNotas\bin\Debug\Exercício39-MediaAritméticaMaioresNotas.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício39-MediaAritméticaMaioresNotas\bin\Debug\Exercício39-MediaAritméticaMaioresNotas.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício39-MediaAritméticaMaioresNotas\obj\Debug\Exercício39-MediaAritméticaMaioresNotas.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício39-MediaAritméticaMaioresNotas\obj\Debug\Exercício39-MediaAritméticaMaioresNotas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício39-MediaAritméticaMaioresNotas\obj\Debug\Exercício39-MediaAritméticaMaioresNotas.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício39-MediaAritméticaMaioresNotas\obj\Debug\Exercício39-MediaAritméticaMaioresNotas.pdb
