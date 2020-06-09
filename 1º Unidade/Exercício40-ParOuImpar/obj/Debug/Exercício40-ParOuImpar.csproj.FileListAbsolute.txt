@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício40-ParOuImpar\bin\Debug\Exercício40-ParOuImpar.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício40-ParOuImpar\bin\Debug\Exercício40-ParOuImpar.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício40-ParOuImpar\bin\Debug\Exercício40-ParOuImpar.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício40-ParOuImpar\obj\Debug\Exercício40-ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício40-ParOuImpar\obj\Debug\Exercício40-ParOuImpar.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício40-ParOuImpar\obj\Debug\Exercício40-ParOuImpar.pdb
