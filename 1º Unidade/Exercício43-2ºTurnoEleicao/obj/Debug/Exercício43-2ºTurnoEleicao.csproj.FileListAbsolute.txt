@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício43-2ºTurnoEleicao\bin\Debug\Exercício43-2ºTurnoEleicao.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício43-2ºTurnoEleicao\bin\Debug\Exercício43-2ºTurnoEleicao.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício43-2ºTurnoEleicao\bin\Debug\Exercício43-2ºTurnoEleicao.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício43-2ºTurnoEleicao\obj\Debug\Exercício43-2ºTurnoEleicao.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício43-2ºTurnoEleicao\obj\Debug\Exercício43-2ºTurnoEleicao.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício43-2ºTurnoEleicao\obj\Debug\Exercício43-2ºTurnoEleicao.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício43-2ºTurnoEleicao\obj\Debug\Exercício43-2ºTurnoEleicao.csprojAssemblyReference.cache
