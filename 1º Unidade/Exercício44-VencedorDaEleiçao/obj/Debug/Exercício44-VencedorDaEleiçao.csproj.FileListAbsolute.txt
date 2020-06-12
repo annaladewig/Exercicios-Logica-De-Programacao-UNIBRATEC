@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício44-VencedorDaEleiçao\bin\Debug\Exercício44-VencedorDaEleiçao.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício44-VencedorDaEleiçao\bin\Debug\Exercício44-VencedorDaEleiçao.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício44-VencedorDaEleiçao\bin\Debug\Exercício44-VencedorDaEleiçao.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício44-VencedorDaEleiçao\obj\Debug\Exercício44-VencedorDaEleiçao.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício44-VencedorDaEleiçao\obj\Debug\Exercício44-VencedorDaEleiçao.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício44-VencedorDaEleiçao\obj\Debug\Exercício44-VencedorDaEleiçao.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício44-VencedorDaEleiçao\obj\Debug\Exercício44-VencedorDaEleiçao.csprojAssemblyReference.cache
