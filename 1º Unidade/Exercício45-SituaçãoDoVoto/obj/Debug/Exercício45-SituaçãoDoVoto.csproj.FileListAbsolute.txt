@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício45-SituaçãoDoVoto\obj\Debug\Exercício45-SituaçãoDoVoto.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício45-SituaçãoDoVoto\obj\Debug\Exercício45-SituaçãoDoVoto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício45-SituaçãoDoVoto\bin\Debug\Exercício45-SituaçãoDoVoto.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício45-SituaçãoDoVoto\bin\Debug\Exercício45-SituaçãoDoVoto.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício45-SituaçãoDoVoto\bin\Debug\Exercício45-SituaçãoDoVoto.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício45-SituaçãoDoVoto\obj\Debug\Exercício45-SituaçãoDoVoto.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício45-SituaçãoDoVoto\obj\Debug\Exercício45-SituaçãoDoVoto.pdb
