@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício46-CalculoReajusteSalarial\bin\Debug\Exercício46-CalculoReajusteSalarial.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício46-CalculoReajusteSalarial\bin\Debug\Exercício46-CalculoReajusteSalarial.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício46-CalculoReajusteSalarial\bin\Debug\Exercício46-CalculoReajusteSalarial.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício46-CalculoReajusteSalarial\obj\Debug\Exercício46-CalculoReajusteSalarial.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício46-CalculoReajusteSalarial\obj\Debug\Exercício46-CalculoReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício46-CalculoReajusteSalarial\obj\Debug\Exercício46-CalculoReajusteSalarial.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício46-CalculoReajusteSalarial\obj\Debug\Exercício46-CalculoReajusteSalarial.pdb
