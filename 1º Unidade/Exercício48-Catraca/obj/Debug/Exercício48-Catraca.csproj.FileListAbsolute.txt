@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício48-Catraca\bin\Debug\Exercício48-Catraca.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício48-Catraca\bin\Debug\Exercício48-Catraca.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício48-Catraca\bin\Debug\Exercício48-Catraca.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício48-Catraca\obj\Debug\Exercício48-Catraca.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício48-Catraca\obj\Debug\Exercício48-Catraca.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício48-Catraca\obj\Debug\Exercício48-Catraca.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício48-Catraca\obj\Debug\Exercício48-Catraca.pdb
