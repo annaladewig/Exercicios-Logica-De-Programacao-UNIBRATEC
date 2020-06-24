@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício49-MaiorIdade\bin\Debug\Exercício49-MaiorIdade.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício49-MaiorIdade\bin\Debug\Exercício49-MaiorIdade.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício49-MaiorIdade\bin\Debug\Exercício49-MaiorIdade.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício49-MaiorIdade\obj\Debug\Exercício49-MaiorIdade.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício49-MaiorIdade\obj\Debug\Exercício49-MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício49-MaiorIdade\obj\Debug\Exercício49-MaiorIdade.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício49-MaiorIdade\obj\Debug\Exercício49-MaiorIdade.pdb
