@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício50-MaiorIdadeComCríticas\bin\Debug\Exercício50-MaiorIdadeComCríticas.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício50-MaiorIdadeComCríticas\bin\Debug\Exercício50-MaiorIdadeComCríticas.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício50-MaiorIdadeComCríticas\bin\Debug\Exercício50-MaiorIdadeComCríticas.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício50-MaiorIdadeComCríticas\obj\Debug\Exercício50-MaiorIdadeComCríticas.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício50-MaiorIdadeComCríticas\obj\Debug\Exercício50-MaiorIdadeComCríticas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício50-MaiorIdadeComCríticas\obj\Debug\Exercício50-MaiorIdadeComCríticas.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício50-MaiorIdadeComCríticas\obj\Debug\Exercício50-MaiorIdadeComCríticas.pdb
