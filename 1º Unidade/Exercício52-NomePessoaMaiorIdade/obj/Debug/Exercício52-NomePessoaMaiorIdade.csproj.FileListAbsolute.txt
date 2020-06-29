@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício52-NomePessoaMaiorIdade\obj\Debug\Exercício52-NomePessoaMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício52-NomePessoaMaiorIdade\bin\Debug\Exercício52-NomePessoaMaiorIdade.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício52-NomePessoaMaiorIdade\bin\Debug\Exercício52-NomePessoaMaiorIdade.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício52-NomePessoaMaiorIdade\bin\Debug\Exercício52-NomePessoaMaiorIdade.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício52-NomePessoaMaiorIdade\obj\Debug\Exercício52-NomePessoaMaiorIdade.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício52-NomePessoaMaiorIdade\obj\Debug\Exercício52-NomePessoaMaiorIdade.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício52-NomePessoaMaiorIdade\obj\Debug\Exercício52-NomePessoaMaiorIdade.csprojAssemblyReference.cache
