@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício53-SegundaChamada\bin\Debug\Exercício53-SegundaChamada.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício53-SegundaChamada\bin\Debug\Exercício53-SegundaChamada.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício53-SegundaChamada\bin\Debug\Exercício53-SegundaChamada.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício53-SegundaChamada\obj\Debug\Exercício53-SegundaChamada.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício53-SegundaChamada\obj\Debug\Exercício53-SegundaChamada.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício53-SegundaChamada\obj\Debug\Exercício53-SegundaChamada.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício53-SegundaChamada\obj\Debug\Exercício53-SegundaChamada.pdb
