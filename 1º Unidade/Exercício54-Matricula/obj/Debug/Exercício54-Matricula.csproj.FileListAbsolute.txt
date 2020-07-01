@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício54-Matricula\bin\Debug\Exercício54-Matricula.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício54-Matricula\bin\Debug\Exercício54-Matricula.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício54-Matricula\bin\Debug\Exercício54-Matricula.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício54-Matricula\obj\Debug\Exercício54-Matricula.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício54-Matricula\obj\Debug\Exercício54-Matricula.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício54-Matricula\obj\Debug\Exercício54-Matricula.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício54-Matricula\obj\Debug\Exercício54-Matricula.csprojAssemblyReference.cache
