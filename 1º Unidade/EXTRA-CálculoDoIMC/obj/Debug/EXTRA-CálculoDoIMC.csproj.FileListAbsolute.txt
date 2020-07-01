@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-CálculoDoIMC\bin\Debug\EXTRA-CálculoDoIMC.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-CálculoDoIMC\bin\Debug\EXTRA-CálculoDoIMC.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-CálculoDoIMC\bin\Debug\EXTRA-CálculoDoIMC.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-CálculoDoIMC\obj\Debug\EXTRA-CálculoDoIMC.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-CálculoDoIMC\obj\Debug\EXTRA-CálculoDoIMC.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-CálculoDoIMC\obj\Debug\EXTRA-CálculoDoIMC.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-CálculoDoIMC\obj\Debug\EXTRA-CálculoDoIMC.pdb
