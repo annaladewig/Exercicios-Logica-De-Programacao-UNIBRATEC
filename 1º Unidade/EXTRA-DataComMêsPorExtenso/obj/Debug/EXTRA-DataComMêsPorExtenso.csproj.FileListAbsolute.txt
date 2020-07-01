@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-DataComMêsPorExtenso\bin\Debug\EXTRA-DataComMêsPorExtenso.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-DataComMêsPorExtenso\bin\Debug\EXTRA-DataComMêsPorExtenso.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-DataComMêsPorExtenso\bin\Debug\EXTRA-DataComMêsPorExtenso.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-DataComMêsPorExtenso\obj\Debug\EXTRA-DataComMêsPorExtenso.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-DataComMêsPorExtenso\obj\Debug\EXTRA-DataComMêsPorExtenso.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-DataComMêsPorExtenso\obj\Debug\EXTRA-DataComMêsPorExtenso.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-DataComMêsPorExtenso\obj\Debug\EXTRA-DataComMêsPorExtenso.csprojAssemblyReference.cache
