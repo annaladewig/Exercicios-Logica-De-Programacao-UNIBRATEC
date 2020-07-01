@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-AlunosPorTurma\bin\Debug\EXTRA-AlunosPorTurma.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-AlunosPorTurma\bin\Debug\EXTRA-AlunosPorTurma.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-AlunosPorTurma\bin\Debug\EXTRA-AlunosPorTurma.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-AlunosPorTurma\obj\Debug\EXTRA-AlunosPorTurma.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-AlunosPorTurma\obj\Debug\EXTRA-AlunosPorTurma.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-AlunosPorTurma\obj\Debug\EXTRA-AlunosPorTurma.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-AlunosPorTurma\obj\Debug\EXTRA-AlunosPorTurma.csprojAssemblyReference.cache
