@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Exercício55-IPVA\bin\Debug\Exercício55-IPVA.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Exercício55-IPVA\bin\Debug\Exercício55-IPVA.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício55-IPVA\bin\Debug\Exercício55-IPVA.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Exercício55-IPVA\obj\Debug\Exercício55-IPVA.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício55-IPVA\obj\Debug\Exercício55-IPVA.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Exercício55-IPVA\obj\Debug\Exercício55-IPVA.exe
+C:\Users\DELL\source\repos\1ºUnidade\Exercício55-IPVA\obj\Debug\Exercício55-IPVA.pdb
