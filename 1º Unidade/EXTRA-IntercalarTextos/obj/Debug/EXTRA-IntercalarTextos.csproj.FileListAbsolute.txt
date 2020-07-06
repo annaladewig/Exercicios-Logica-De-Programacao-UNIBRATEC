@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-IntercalarTextos\bin\Debug\EXTRA-IntercalarTextos.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-IntercalarTextos\bin\Debug\EXTRA-IntercalarTextos.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-IntercalarTextos\bin\Debug\EXTRA-IntercalarTextos.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-IntercalarTextos\obj\Debug\EXTRA-IntercalarTextos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-IntercalarTextos\obj\Debug\EXTRA-IntercalarTextos.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-IntercalarTextos\obj\Debug\EXTRA-IntercalarTextos.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-IntercalarTextos\obj\Debug\EXTRA-IntercalarTextos.csprojAssemblyReference.cache
