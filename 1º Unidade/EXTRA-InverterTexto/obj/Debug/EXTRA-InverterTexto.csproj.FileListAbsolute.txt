@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-InverterTexto\obj\Debug\EXTRA-InverterTexto.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-InverterTexto\obj\Debug\EXTRA-InverterTexto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-InverterTexto\bin\Debug\EXTRA-InverterTexto.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-InverterTexto\bin\Debug\EXTRA-InverterTexto.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-InverterTexto\bin\Debug\EXTRA-InverterTexto.pdb
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-InverterTexto\obj\Debug\EXTRA-InverterTexto.exe
+C:\Users\DELL\source\repos\1ºUnidade\EXTRA-InverterTexto\obj\Debug\EXTRA-InverterTexto.pdb
