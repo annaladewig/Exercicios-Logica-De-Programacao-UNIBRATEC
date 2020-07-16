@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\Prova1ºUnidade-Questão01\bin\Debug\Prova1ºUnidade-Questão01.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\Prova1ºUnidade-Questão01\bin\Debug\Prova1ºUnidade-Questão01.exe
+C:\Users\DELL\source\repos\1ºUnidade\Prova1ºUnidade-Questão01\bin\Debug\Prova1ºUnidade-Questão01.pdb
+C:\Users\DELL\source\repos\1ºUnidade\Prova1ºUnidade-Questão01\obj\Debug\Prova1ºUnidade-Questão01.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\Prova1ºUnidade-Questão01\obj\Debug\Prova1ºUnidade-Questão01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\Prova1ºUnidade-Questão01\obj\Debug\Prova1ºUnidade-Questão01.exe
+C:\Users\DELL\source\repos\1ºUnidade\Prova1ºUnidade-Questão01\obj\Debug\Prova1ºUnidade-Questão01.pdb
