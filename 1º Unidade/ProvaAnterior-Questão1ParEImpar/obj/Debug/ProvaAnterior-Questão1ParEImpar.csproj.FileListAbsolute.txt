@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão1ParEImpar\bin\Debug\ProvaAnterior-Questão1ParEImpar.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão1ParEImpar\bin\Debug\ProvaAnterior-Questão1ParEImpar.exe
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão1ParEImpar\bin\Debug\ProvaAnterior-Questão1ParEImpar.pdb
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão1ParEImpar\obj\Debug\ProvaAnterior-Questão1ParEImpar.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão1ParEImpar\obj\Debug\ProvaAnterior-Questão1ParEImpar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão1ParEImpar\obj\Debug\ProvaAnterior-Questão1ParEImpar.exe
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão1ParEImpar\obj\Debug\ProvaAnterior-Questão1ParEImpar.pdb
