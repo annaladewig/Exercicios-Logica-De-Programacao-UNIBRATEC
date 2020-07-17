@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão2VogalConsoante\obj\Debug\ProvaAnterior-Questão2VogalConsoante.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão2VogalConsoante\obj\Debug\ProvaAnterior-Questão2VogalConsoante.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão2VogalConsoante\bin\Debug\ProvaAnterior-Questão2VogalConsoante.exe.config
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão2VogalConsoante\bin\Debug\ProvaAnterior-Questão2VogalConsoante.exe
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão2VogalConsoante\bin\Debug\ProvaAnterior-Questão2VogalConsoante.pdb
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão2VogalConsoante\obj\Debug\ProvaAnterior-Questão2VogalConsoante.exe
+C:\Users\DELL\source\repos\1ºUnidade\ProvaAnterior-Questão2VogalConsoante\obj\Debug\ProvaAnterior-Questão2VogalConsoante.pdb
