@@ -1,0 +1,6 @@
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício04 -SubRotina\bin\Debug\Exercício04 -SubRotina.exe.config
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício04 -SubRotina\bin\Debug\Exercício04 -SubRotina.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício04 -SubRotina\bin\Debug\Exercício04 -SubRotina.pdb
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício04 -SubRotina\obj\Debug\Exercício04 -SubRotina.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício04 -SubRotina\obj\Debug\Exercício04 -SubRotina.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício04 -SubRotina\obj\Debug\Exercício04 -SubRotina.pdb
