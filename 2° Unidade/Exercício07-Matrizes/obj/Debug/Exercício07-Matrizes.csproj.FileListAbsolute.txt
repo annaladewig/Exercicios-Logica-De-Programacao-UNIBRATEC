@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício07-Matrizes\obj\Debug\Exercício07-Matrizes.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício07-Matrizes\obj\Debug\Exercício07-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício07-Matrizes\bin\Debug\Exercício07-Matrizes.exe.config
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício07-Matrizes\bin\Debug\Exercício07-Matrizes.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício07-Matrizes\bin\Debug\Exercício07-Matrizes.pdb
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício07-Matrizes\obj\Debug\Exercício07-Matrizes.exe
+C:\Users\DELL\OneDrive\Anninha\Análise e Desenvolvimento de Sistemas\IBRATEC\1º Período\Lógica de Programação\Visual Studio\2ºUnidade\2ºUnidade\Exercício07-Matrizes\obj\Debug\Exercício07-Matrizes.pdb
